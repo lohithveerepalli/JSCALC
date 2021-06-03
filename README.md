@@ -1,2 +1,2 @@
-# JSCALC
-JavaScript calculator with basic functionality
+# jscalc
+Basic functioning calculator
